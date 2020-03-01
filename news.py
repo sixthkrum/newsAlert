@@ -30,4 +30,4 @@ def news( userdata ):
 
     return True
 
-hexchat.hook_timer( 10 , news ) #hourly updates
+hexchat.hook_timer( 10 , news ) #updated every 10 milliseconds
