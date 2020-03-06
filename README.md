@@ -7,3 +7,5 @@ tearer.py scrapes ndtv.com/delhi-news constantly and whenever it finds an articl
 tearer.py parses the article and removes ndtv's headers and footers on the article
 
 Add news.py to the addons in hexchat and run tearer.py from the terminal
+
+Update file paths in the scripts (use absolute paths) to run it on your machine
